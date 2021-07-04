@@ -9,8 +9,8 @@ The project is built with basic web setup (HTML, CSS, and JavaScript).
 *Note: You need NodeJS installed in your machine to run formatter and server*
 
 ```
-git clone https://github.com/:your-github-username/text-to-handwriting
-cd text-to-handwriting
+git clone https://github.com/:your-github-username/custom-handwriting
+cd custom-handwriting
 npm install
 npm run dev
 ```
