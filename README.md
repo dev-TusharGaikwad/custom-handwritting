@@ -5,7 +5,7 @@ Sython/custom-handwriting/blob/master/LICENSE"> <img alt="GitHub License MIT" sr
 
 </p>
 
-*Note: This project is now archived. Read the announcement at https://github.com/devSython/custom-handwriting/issues/138*
+
 
 ## 🌠 Output
 
